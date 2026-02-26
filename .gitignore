@@ -1,0 +1,13 @@
+# Visual Studio
+.vs/
+x64/
+*.user
+*.VC.db
+*.VC.opendb
+
+# Build
+Debug/
+Release/
+
+# Windows
+Thumbs.db
