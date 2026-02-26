@@ -6,7 +6,8 @@ using namespace std;
 
 int main()
 {
-    clsString String1("Mohammed DAHOU");
+
+    clsString String1("chaymae El Omari");
 
     cout << String1.CountVowels();
     cout << clsString::CountVowels("Mohammed DAHOU");
